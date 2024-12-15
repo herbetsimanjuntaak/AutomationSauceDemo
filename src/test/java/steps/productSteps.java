@@ -46,6 +46,7 @@ public class productSteps {
 //        System.out.println(product.getButtonText(1));
         Assert.assertTrue(product.isRemoveButtonDisplayed(1));
         product.soutsss();
+        //new herbet
     }
 
     @When("user clicks on the Add to Cart button for a different product")
